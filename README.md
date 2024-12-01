@@ -4,10 +4,7 @@ Made by - Gavesh , Sarthak , Tahir
 # DOWNLOAD THE MODULES :-
 open terminal and paste the following commands :
 ```
-function test(){"pip install turtle
-pip install time
-pip install random"
-}
+pip install turtle
 ```
 # FOR CLONING 
 run the following commands in the terminal:
