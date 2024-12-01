@@ -3,7 +3,12 @@ Here is our computer science project
 Made by - Gavesh , Sarthak , Tahir 
 # DOWNLOAD THE MODULES :-
 1. open terminal and paste the following commands :
-   ``pip install turtle``
+   ```
+function test() {
+  console.log("``pip install turtle``");
+}
+```
+   
    ``pip install time``
    ``pip install random``
 # FOR CLONING 
