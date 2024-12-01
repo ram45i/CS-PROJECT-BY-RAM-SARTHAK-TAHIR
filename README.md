@@ -4,13 +4,10 @@ Made by - Gavesh , Sarthak , Tahir
 # DOWNLOAD THE MODULES :-
 open terminal and paste the following commands :
 ```
-pip install turtle
+sudo apt-get update
 ```
 ```
-pip install time
-```
-```
-pip install random
+sudo apt-get install python3-tk
 ```
 # FOR CLONING 
 run the following commands in the terminal:
