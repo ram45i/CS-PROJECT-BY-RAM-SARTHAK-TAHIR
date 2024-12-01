@@ -9,8 +9,8 @@ sudo apt-get update
 ```
 sudo apt-get install python3-tk
 ```
-sometimes turtle didn't work without tk so it's better to install it 
-you can also use 
+sometimes turtle didn't work without tk so it's better to install it ,
+you can also use pip commands if the above didn't work 
 ```
 pip install tk
 ```
