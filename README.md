@@ -14,4 +14,6 @@ pip install random
 ```
 # FOR CLONING 
 run the following commands in the terminal:
-```gitclone https://github.com/ram45i/CS-PROJECT-BY-RAM-SARTHAK-TAHIR```
+```
+gitclone https://github.com/ram45i/CS-PROJECT-BY-RAM-SARTHAK-TAHIR
+```
