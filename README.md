@@ -9,8 +9,8 @@ sudo apt-get update
 ```
 sudo apt-get install python3-tk
 ```
-# FOR CLONING 
+# TO COPY THE REPOSITORY
 run the following commands in the terminal:
 ```
-gitclone https://github.com/ram45i/CS-PROJECT-BY-RAM-SARTHAK-TAHIR
+git clone https://github.com/ram45i/CS-PROJECT-BY-RAM-SARTHAK-TAHIR
 ```
